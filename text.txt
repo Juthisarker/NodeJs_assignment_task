@@ -1,0 +1,8 @@
+juthi = mongoUserName
+juthisarker123456 = mongopassword
+
+
+mongodb+srv://juthi:juthisarker123456@assignment-task.0zzetkz.mongodb.net/?retryWrites=true&w=majority = connection string
+
+mongodb://${MONGO_USER}:${MONGO_PASSWORD}${MONGO_PATH}`
+mongodb+srv://juthi:<password>@assignment-task.0zzetkz.mongodb.net/?retryWrites=true&w=majority
